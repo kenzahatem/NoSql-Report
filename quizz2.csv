@@ -1,0 +1,41 @@
+ID,Question,Choix A,Choix B,Choix C,Choix D,Reponse,Categorie
+1,Qui est l'auteur de la théorie de l'évolution ?,Isaac Newton,Albert Einstein,Charles Darwin,Galilée,C,Science
+2,Quel est l'élément chimique le plus léger ?,Hélium,Hydrogène,Oxygène,Azote,B,Chimie
+3,Quelle mer borde la ville de Venise ?,Mer Méditerranée,Mer Noire,Mer Adriatique,Mer Baltique,C,Géographie
+4,Quel est le symbole chimique du sodium ?,So,Sa,Na,No,C,Chimie
+5,Quelle est la plus haute montagne du monde ?,Mont Everest,K2,Mont Fuji,Mont Kilimandjaro,A,Géographie
+6,Combien de secondes y a-t-il dans une heure ?,360,3600,3000,36000,D,Mathématiques
+7,Quel est le plus grand océan du monde ?,Océan Atlantique,Océan Indien,Océan Arctique,Océan Pacifique,D,Géographie
+8,Quel est le nom du plus long fleuve d'Amérique du Sud ?,Nil,Amazonie,Mékong,Gange,B,Géographie
+9,Quelle planète a une journée de plus de 24 heures ?,Jupiter,Mercure,Mars,Vénus,D,Astronomie
+10,Quel écrivain est célèbre pour "Le Vieil Homme et la Mer" ?,F. Scott Fitzgerald,Ernest Hemingway,John Steinbeck,Mark Twain,B,Littérature
+11,Combien d'os y a-t-il dans le corps humain adulte ?,195,206,208,175,B,Biologie
+12,Quel pays a remporté la première Coupe du Monde de la FIFA ?,France,Italie,Argentine,Uruguay,D,Sport
+13,Quel est le pays le plus peuplé au monde ?,Inde,États-Unis,Indonésie,Chine,D,Géographie
+14,Quel est le nombre maximal de cases sur un échiquier ?,72,100,64,50,C,Jeux
+15,Quelle est la température de fusion de l'eau en Celsius ?,0,100,273,10,A,Science
+16,Dans quel pays se trouve la tour Burj Khalifa ?,Arabie Saoudite,Émirats Arabes Unis,Turquie,Inde,B,Géographie
+17,Qui a inventé l'ampoule électrique ?,Alexander Graham Bell,Nikola Tesla,Thomas Edison,Isaac Newton,C,Histoire
+18,Quel organe du corps humain produit l'insuline ?,Pancréas,Foie,Reins,Estomac,A,Biologie
+19,Qui est le dieu de la mer dans la mythologie grecque ?,Zeus,Hermès,Héra,Poséidon,D,Mythologie
+20,Combien de côtés a un hexagone ?,4,5,6,8,C,Mathématiques
+21,Quel est le plus grand pays du monde en superficie ?,Chine,États-Unis,Canada,Russie,D,Géographie
+22,Quel célèbre musicien est surnommé le "Roi de la Pop" ?,Elvis Presley,Michael Jackson,Prince,Stevie Wonder,B,Musique
+23,Qui a peint "La Nuit étoilée" ?,Claude Monet,Vincent Van Gogh,Pablo Picasso,Leonard De Vinci,B,Art
+24,Quelle planète est connue comme la "planète rouge" ?,Mercure,Mars,Jupiter,Vénus,B,Astronomie
+25,Dans quel pays trouve-t-on les pyramides de Gizeh ?,Grèce,Égypte,Mexique,Italie,B,Histoire
+26,Quelle est la première lettre de l'alphabet grec ?,Oméga,Bêta,Alpha,Delta,C,Langues
+27,Combien d'états compte les États-Unis ?,48,50,51,52,B,Géographie
+28,Quel animal est le symbole de la paix ?,Lion,Pigeon,Colombe,Cygne,C,Culture
+29,Qui a écrit "Les Fleurs du mal" ?,Gustave Flaubert,Victor Hugo,Charles Baudelaire,Arthur Rimbaud,C,Littérature
+30,Quel est le nom du petit-déjeuner en anglais ?,Breakfast,Lunch,Dinner,Brunch,A,Langues
+31,Quel est le nombre de jours dans une année bissextile ?,364,366,365,368,B,Histoire
+32,Quel organe humain est principalement responsable de la filtration du sang ?,Pancréas,Cerveau,Foie,Reins,D,Biologie
+33,Dans quel pays se situe la ville de Kyoto ?,Chine,Japon,Corée du Sud,Thaïlande,B,Géographie
+34,Qui a développé Windows ?,Apple,IBM,Microsoft,Oracle,C,Technologie
+35,Quel est le plus grand désert chaud du monde ?,Sahara,Antarctique,Gobi,Kalahari,A,Géographie
+36,Dans quelle ville peut-on visiter le Colisée ?,Athènes,Paris,Rome,Madrid,C,Histoire
+37,Quelle est la capitale de l'Inde ?,Bombay,New Delhi,Calcutta,Chennai,B,Géographie
+38,Combien de jours y a-t-il en septembre ?,30,31,28,29,A,Histoire
+39,Quel est le nom du gaz qui compose environ 78% de l'atmosphère terrestre ?,Oxygène,Hydrogène,Azote,Hélium,C,Science
+40,Quel métal est le meilleur conducteur électrique ?,Fer,Cuivre,Or,Aluminium,B,Science

@@ -1,0 +1,482 @@
+{
+    "1": [
+        {
+            "ID": "1",
+            "Question": "Quelle est la capitale de la France ?",
+            "Choix A": "Paris",
+            "Choix B": "Lyon",
+            "Choix C": "Marseille",
+            "Choix D": "Toulouse",
+            "Reponse": "A",
+            "Categorie": "Géographie"
+        }
+    ],
+    "2": [
+        {
+            "ID": "2",
+            "Question": "Quelle est la plus petite planète du système solaire ?",
+            "Choix A": "Mercure",
+            "Choix B": "Terre",
+            "Choix C": "Mars",
+            "Choix D": "Jupiter",
+            "Reponse": "A",
+            "Categorie": "Astronomie"
+        }
+    ],
+    "3": [
+        {
+            "ID": "3",
+            "Question": "Qui a peint La Joconde ?",
+            "Choix A": "Michel-Ange",
+            "Choix B": "Léonard de Vinci",
+            "Choix C": "Pablo Picasso",
+            "Choix D": "Claude Monet",
+            "Reponse": "B",
+            "Categorie": "Art"
+        }
+    ],
+    "4": [
+        {
+            "ID": "4",
+            "Question": "Quelle est la formule chimique de l'eau ?",
+            "Choix A": "H2O",
+            "Choix B": "CO2",
+            "Choix C": "O2",
+            "Choix D": "NaCl",
+            "Reponse": "A",
+            "Categorie": "Chimie"
+        }
+    ],
+    "5": [
+        {
+            "ID": "5",
+            "Question": "Dans quel pays se trouve le Colisée ?",
+            "Choix A": "Espagne",
+            "Choix B": "Italie",
+            "Choix C": "Grèce",
+            "Choix D": "France",
+            "Reponse": "B",
+            "Categorie": "Histoire"
+        }
+    ],
+    "6": [
+        {
+            "ID": "6",
+            "Question": "Combien de continents y a-t-il sur Terre ?",
+            "Choix A": "5",
+            "Choix B": "6",
+            "Choix C": "7",
+            "Choix D": "8",
+            "Reponse": "C",
+            "Categorie": "Géographie"
+        }
+    ],
+    "7": [
+        {
+            "ID": "7",
+            "Question": "Quelle langue est principalement parlée au Brésil ?",
+            "Choix A": "Espagnol",
+            "Choix B": "Portugais",
+            "Choix C": "Anglais",
+            "Choix D": "Français",
+            "Reponse": "B",
+            "Categorie": "Langues"
+        }
+    ],
+    "8": [
+        {
+            "ID": "8",
+            "Question": "Quel est le plus grand mammifère ?",
+            "Choix A": "Éléphant",
+            "Choix B": "Baleine bleue",
+            "Choix C": "Rhinocéros",
+            "Choix D": "Hippopotame",
+            "Reponse": "B",
+            "Categorie": "Biologie"
+        }
+    ],
+    "9": [
+        {
+            "ID": "9",
+            "Question": "Quelle est la capitale du Japon ?",
+            "Choix A": "Séoul",
+            "Choix B": "Tokyo",
+            "Choix C": "Pékin",
+            "Choix D": "Osaka",
+            "Reponse": "B",
+            "Categorie": "Géographie"
+        }
+    ],
+    "10": [
+        {
+            "ID": "10",
+            "Question": "Qui a écrit Roméo et Juliette ?",
+            "Choix A": "Victor Hugo",
+            "Choix B": "Charles Dickens",
+            "Choix C": "William Shakespeare",
+            "Choix D": "Honoré de Balzac",
+            "Reponse": "C",
+            "Categorie": "Littérature"
+        }
+    ],
+    "11": [
+        {
+            "ID": "11",
+            "Question": "Quel élément chimique a pour symbole He ?",
+            "Choix A": "Hydrogène",
+            "Choix B": "Hélium",
+            "Choix C": "Carbone",
+            "Choix D": "Azote",
+            "Reponse": "B",
+            "Categorie": "Chimie"
+        }
+    ],
+    "12": [
+        {
+            "ID": "12",
+            "Question": "Quelle est la durée d'une année sur Mars en jours terrestres ?",
+            "Choix A": "365",
+            "Choix B": "687",
+            "Choix C": "432",
+            "Choix D": "310",
+            "Reponse": "B",
+            "Categorie": "Astronomie"
+        }
+    ],
+    "13": [
+        {
+            "ID": "13",
+            "Question": "Quel est le nom du président des États-Unis en 2021 ?",
+            "Choix A": "Donald Trump",
+            "Choix B": "Joe Biden",
+            "Choix C": "Barack Obama",
+            "Choix D": "Bernie Sanders",
+            "Reponse": "B",
+            "Categorie": "Histoire"
+        }
+    ],
+    "14": [
+        {
+            "ID": "14",
+            "Question": "Quelle est la couleur du sang des veines ?",
+            "Choix A": "Bleu",
+            "Choix B": "Vert",
+            "Choix C": "Rouge",
+            "Choix D": "Transparent",
+            "Reponse": "C",
+            "Categorie": "Biologie"
+        }
+    ],
+    "15": [
+        {
+            "ID": "15",
+            "Question": "Quelle est la plus grande planète du système solaire ?",
+            "Choix A": "Saturne",
+            "Choix B": "Jupiter",
+            "Choix C": "Mars",
+            "Choix D": "Terre",
+            "Reponse": "B",
+            "Categorie": "Astronomie"
+        }
+    ],
+    "16": [
+        {
+            "ID": "16",
+            "Question": "Quel est le plus grand désert du monde ?",
+            "Choix A": "Sahara",
+            "Choix B": "Antarctique",
+            "Choix C": "Désert arabique",
+            "Choix D": "Gobi",
+            "Reponse": "B",
+            "Categorie": "Géographie"
+        }
+    ],
+    "17": [
+        {
+            "ID": "17",
+            "Question": "Quelle ville est surnommée la \"Big Apple\" ?",
+            "Choix A": "San Francisco",
+            "Choix B": "New York",
+            "Choix C": "Los Angeles",
+            "Choix D": "Chicago",
+            "Reponse": "B",
+            "Categorie": "Géographie"
+        }
+    ],
+    "18": [
+        {
+            "ID": "18",
+            "Question": "Qui a découvert la pénicilline ?",
+            "Choix A": "Albert Einstein",
+            "Choix B": "Alexander Fleming",
+            "Choix C": "Louis Pasteur",
+            "Choix D": "Marie Curie",
+            "Reponse": "B",
+            "Categorie": "Science"
+        }
+    ],
+    "19": [
+        {
+            "ID": "19",
+            "Question": "Quel pays a remporté la Coupe du Monde de la FIFA en 2018 ?",
+            "Choix A": "Allemagne",
+            "Choix B": "Brésil",
+            "Choix C": "France",
+            "Choix D": "Espagne",
+            "Reponse": "C",
+            "Categorie": "Sport"
+        }
+    ],
+    "20": [
+        {
+            "ID": "20",
+            "Question": "Qui a inventé le téléphone ?",
+            "Choix A": "Thomas Edison",
+            "Choix B": "Alexander Graham Bell",
+            "Choix C": "Nikola Tesla",
+            "Choix D": "Isaac Newton",
+            "Reponse": "B",
+            "Categorie": "Histoire"
+        }
+    ],
+    "21": [
+        {
+            "ID": "21",
+            "Question": "Combien de pattes a une araignée ?",
+            "Choix A": "6",
+            "Choix B": "8",
+            "Choix C": "10",
+            "Choix D": "12",
+            "Reponse": "B",
+            "Categorie": "Biologie"
+        }
+    ],
+    "22": [
+        {
+            "ID": "22",
+            "Question": "Quelle est la langue officielle de la Chine ?",
+            "Choix A": "Anglais",
+            "Choix B": "Mandarin",
+            "Choix C": "Hindi",
+            "Choix D": "Français",
+            "Reponse": "B",
+            "Categorie": "Langues"
+        }
+    ],
+    "23": [
+        {
+            "ID": "23",
+            "Question": "Qui est l'auteur de Harry Potter ?",
+            "Choix A": "J.R.R. Tolkien",
+            "Choix B": "George R.R. Martin",
+            "Choix C": "J.K. Rowling",
+            "Choix D": "Stephen King",
+            "Reponse": "C",
+            "Categorie": "Littérature"
+        }
+    ],
+    "24": [
+        {
+            "ID": "24",
+            "Question": "Quel pays est connu pour la tour Eiffel ?",
+            "Choix A": "Italie",
+            "Choix B": "France",
+            "Choix C": "Allemagne",
+            "Choix D": "Royaume-Uni",
+            "Reponse": "B",
+            "Categorie": "Géographie"
+        }
+    ],
+    "25": [
+        {
+            "ID": "25",
+            "Question": "Quelle est la température de congélation de l'eau en degrés Celsius ?",
+            "Choix A": "0",
+            "Choix B": "100",
+            "Choix C": "-1",
+            "Choix D": "-10",
+            "Reponse": "A",
+            "Categorie": "Science"
+        }
+    ],
+    "26": [
+        {
+            "ID": "26",
+            "Question": "Quelle est la planète rouge ?",
+            "Choix A": "Jupiter",
+            "Choix B": "Mars",
+            "Choix C": "Vénus",
+            "Choix D": "Saturne",
+            "Reponse": "B",
+            "Categorie": "Astronomie"
+        }
+    ],
+    "27": [
+        {
+            "ID": "27",
+            "Question": "Quelle ville est célèbre pour le carnaval et le Christ Rédempteur ?",
+            "Choix A": "Madrid",
+            "Choix B": "Rio de Janeiro",
+            "Choix C": "Mexico City",
+            "Choix D": "Buenos Aires",
+            "Reponse": "B",
+            "Categorie": "Géographie"
+        }
+    ],
+    "28": [
+        {
+            "ID": "28",
+            "Question": "Quel gaz est essentiel à la respiration humaine ?",
+            "Choix A": "Oxygène",
+            "Choix B": "Azote",
+            "Choix C": "Hydrogène",
+            "Choix D": "Hélium",
+            "Reponse": "A",
+            "Categorie": "Science"
+        }
+    ],
+    "29": [
+        {
+            "ID": "29",
+            "Question": "Quelle est la monnaie du Japon ?",
+            "Choix A": "Dollar",
+            "Choix B": "Yen",
+            "Choix C": "Euro",
+            "Choix D": "Yuan",
+            "Reponse": "B",
+            "Categorie": "Économie"
+        }
+    ],
+    "30": [
+        {
+            "ID": "30",
+            "Question": "Quel est le symbole chimique de l'or ?",
+            "Choix A": "G",
+            "Choix B": "Au",
+            "Choix C": "Ag",
+            "Choix D": "Fe",
+            "Reponse": "B",
+            "Categorie": "Chimie"
+        }
+    ],
+    "31": [
+        {
+            "ID": "31",
+            "Question": "Quel océan borde la côte est des États-Unis ?",
+            "Choix A": "Pacifique",
+            "Choix B": "Atlantique",
+            "Choix C": "Arctique",
+            "Choix D": "Indien",
+            "Reponse": "B",
+            "Categorie": "Géographie"
+        }
+    ],
+    "32": [
+        {
+            "ID": "32",
+            "Question": "Qui a écrit Les Misérables ?",
+            "Choix A": "Honoré de Balzac",
+            "Choix B": "Charles Baudelaire",
+            "Choix C": "Victor Hugo",
+            "Choix D": "Gustave Flaubert",
+            "Reponse": "C",
+            "Categorie": "Littérature"
+        }
+    ],
+    "33": [
+        {
+            "ID": "33",
+            "Question": "Quelle est la capitale de l'Espagne ?",
+            "Choix A": "Lisbonne",
+            "Choix B": "Madrid",
+            "Choix C": "Barcelone",
+            "Choix D": "Valence",
+            "Reponse": "B",
+            "Categorie": "Géographie"
+        }
+    ],
+    "34": [
+        {
+            "ID": "34",
+            "Question": "Qui a développé la théorie de la relativité ?",
+            "Choix A": "Isaac Newton",
+            "Choix B": "Nicola Tesla",
+            "Choix C": "Albert Einstein",
+            "Choix D": "Marie Curie",
+            "Reponse": "C",
+            "Categorie": "Science"
+        }
+    ],
+    "35": [
+        {
+            "ID": "35",
+            "Question": "Quelle est la valeur de Pi approximativement ?",
+            "Choix A": "3.14",
+            "Choix B": "2.71",
+            "Choix C": "1.41",
+            "Choix D": "3.33",
+            "Reponse": "A",
+            "Categorie": "Mathématiques"
+        }
+    ],
+    "36": [
+        {
+            "ID": "36",
+            "Question": "Quel est le nom du processus par lequel les plantes fabriquent leur nourriture ?",
+            "Choix A": "Respiration",
+            "Choix B": "Photosynthèse",
+            "Choix C": "Transpiration",
+            "Choix D": "Oxydation",
+            "Reponse": "B",
+            "Categorie": "Biologie"
+        }
+    ],
+    "37": [
+        {
+            "ID": "37",
+            "Question": "Combien de jours y a-t-il en février lors d'une année bissextile ?",
+            "Choix A": "28",
+            "Choix B": "29",
+            "Choix C": "30",
+            "Choix D": "31",
+            "Reponse": "B",
+            "Categorie": "Histoire"
+        }
+    ],
+    "38": [
+        {
+            "ID": "38",
+            "Question": "Quelle est la distance moyenne de la Terre au Soleil ?",
+            "Choix A": "149.6 millions de km",
+            "Choix B": "108 millions de km",
+            "Choix C": "227.9 millions de km",
+            "Choix D": "50 millions de km",
+            "Reponse": "A",
+            "Categorie": "Astronomie"
+        }
+    ],
+    "39": [
+        {
+            "ID": "39",
+            "Question": "Quel est l'animal le plus rapide sur Terre ?",
+            "Choix A": "Guépard",
+            "Choix B": "Lièvre",
+            "Choix C": "Faucon pèlerin",
+            "Choix D": "Lion",
+            "Reponse": "A",
+            "Categorie": "Biologie"
+        }
+    ],
+    "40": [
+        {
+            "ID": "40",
+            "Question": "Quelle est la capitale de l'Australie ?",
+            "Choix A": "Sydney",
+            "Choix B": "Melbourne",
+            "Choix C": "Canberra",
+            "Choix D": "Brisbane",
+            "Reponse": "C",
+            "Categorie": "Géographie"
+        }
+    ]
+}
