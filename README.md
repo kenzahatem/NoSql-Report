@@ -29,13 +29,5 @@ Le projet suivra une méthodologie inspirée de la rédaction de rapports scient
 - Une histoire fictive bien construite qui sert de fil conducteur au projet.
 - Une application démontrant l'intégration de Redis et MongoDB.
 - Une documentation complète suivant la structure définie.
-- (Optionnel) Un notebook pour accompagner les explications.
+- Un notebook pour accompagner les explications.
 
----
-
-## Exigences Techniques
-
-- **Langage** : Python
-- **Bases de données** : Redis (temps réel), MongoDB (persistance)
-- **Outils supplémentaires** : [ajoutez vos outils ici, si nécessaire]
-- **Documentation** : Rédigée en Markdown, claire et structurée.
